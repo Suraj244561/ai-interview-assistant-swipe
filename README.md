@@ -6,7 +6,7 @@
 
 ## 🔗 Quick Links
 
-- **🌐 Live Demo**: [Try the Application](https://yourusername.github.io/ai-interview-assistant-swipe)
+- **🌐 Live Demo**: https://suraj244561.github.io/ai-interview-assistant-swipe/
 
 ## ✅ All Requirements Implemented
 
@@ -32,7 +32,7 @@
 ## 🚀 Quick Start
 
 ### **Test the Application (2 minutes):**
-1. **Open**: [Live Demo Link](https://yourusername.github.io/ai-interview-assistant-swipe)
+1. **Open**: [Live Demo Link] https://suraj244561.github.io/ai-interview-assistant-swipe/
 2. **Upload**: Any PDF/DOCX resume file
 3. **Complete**: Profile information if missing
 4. **Take Interview**: Answer 6 timed questions  
